@@ -20,6 +20,21 @@
 17.Next Steps
 18.Wrapping Up
 
+# Scoping and Requirements
+
+# Must haves::
+Styling
+Routing
+API routes
+Static and dynamic pages
+Image optimization
+
+# Nice-to-haves:
+Sharing state between routes
+Authentication
+Internationalization
+Unit and end-to-end testing
+Data persistence (database)
 
 
 
