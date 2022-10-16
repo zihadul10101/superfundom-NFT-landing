@@ -1,24 +1,24 @@
 # I have acived this one in-sha-allaha
 
-Table of Contents
-Prerequisites
-Introduction
-Adding Tailwind
-Storybook Support for Tailwind
-Scoping and Requirements
-Front End Planning
-Front End: Search Component
-Front End: Header and Footer
-Front End: Layout
-Front End: Results
-Back End Planning
-Back End: Search Data
-Back End: API Routes
-Static and Dynamic Pages in Next.js
-Front End Finishing Touches
-Themes and Design Systems
-Next Steps
-Wrapping Up
+###Table of Contents
+1.Prerequisites
+2.Introduction
+3.Adding Tailwind
+4.Storybook Support for Tailwind
+5.Scoping and Requirements
+6.Front End Planning
+7.Front End: Search Component
+8.Front End: Header and Footer
+9.Front End: Layout
+10.Front End: Results
+11.Back End Planning
+12.Back End: Search Data
+13.Back End: API Routes
+14.Static and Dynamic Pages in Next.js
+15.Front End Finishing Touches
+16.Themes and Design Systems
+17.Next Steps
+18.Wrapping Up
 
 
 
